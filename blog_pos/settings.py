@@ -25,7 +25,7 @@ SECRET_KEY = 'ps$_uwrpjdxab279wynb^&wuletnic2ha)1!krbxv1!4s&6all'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', "peaceful-basin-46195.herokuapp.com"]
 
 
 # Application definition
